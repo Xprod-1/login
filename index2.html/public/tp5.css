@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+
+.tt{
+    margin-left: 110%;
+}
+.wikwik{
+    background-image: url(greeen.jpg);
+}
+body{
+    background-color: rgb(32, 150, 32);
+}
